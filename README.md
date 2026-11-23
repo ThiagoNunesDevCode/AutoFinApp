@@ -1,7 +1,7 @@
 # AUTOFIN APP 
 Gerencimento de Finanças Automático 
 
-## o que resolver ? 
+##O que resolver ? 
 Facilita o processo de categorização de gastos e organização de finanças. 
 
 ##  Como resolve? 
