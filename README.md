@@ -1,11 +1,12 @@
-# Avora Personal Finance
-Gestor e guia de finanças pessoais 
+# AUTOFIN APP 
+Gerencimento de Finanças Automático 
 
 ## o que resolver ? 
-Organiza e guia sobre finanças pessoais de pessoas fisicas no Brasil de forma a melhorar a gestão de médico, curto e longo prazo. 
+Facilita o processo de categorização de gastos e organização de finanças. 
 
 ##  Como resolve? 
-Através de aplicação WEB inicialmente, o qual após conectado, informa todas as transações em bancos que serão conectadoas via API de OpenFinance a qual o usuário precisa apenas categorizar as finanças de forma que isso facilite todos os lançamento do mesmo para que não haja erros em lançamentos e que seja fácil o lançamento de forma que isso se torne uma tarefas simple e educativa ao longo do dia. 
+Através de aplicação WEB conectado com uma API do OpenFinance pessoal o qual informa todas as transações de contas de banco de de cartões de crédito conforme lista de instituições cobertas. 
+
 
 
 ## Requisitos Funcionais (RF): 
